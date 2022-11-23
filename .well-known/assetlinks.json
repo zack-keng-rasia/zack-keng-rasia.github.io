@@ -1,9 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.rakuten.gap.ads.rewardsdknative.app",
-    "sha256_cert_fingerprints":
-    ["93:43:D7:B4:8C:5F:40:3C:11:F6:A5:3E:BF:5C:73:B7:33:52:A1:30:78:A1:36:33:42:95:9B:9F:41:8A:1B:7B"]
-  }
+  "target" : { "namespace": "android_app", "package_name": "com.rakuten.zack.testapplication",
+               "sha256_cert_fingerprints": ["C9:A2:BB:F8:72:D0:AC:52:6D:D7:7F:C9:C6:83:0C:D0:7B:4D:DA:28:F2:56:F5:EE:CC:3A:92:FC:B0:BD:EF:B3"] }
 }]
