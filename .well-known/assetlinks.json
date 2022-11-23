@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.rakuten.gap.ads.rakutenrewardnative.sampleapp",
-    "sha256_cert_fingerprints":
-    ["36:E3:C1:E7:D6:A3:A6:A7:FF:5D:9C:7E:A4:83:6B:0B:A1:20:D0:64:25:AD:CC:6A:14:B6:53:03:C1:C8:C8:71"]
-  }
-}]
