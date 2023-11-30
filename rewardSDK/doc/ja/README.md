@@ -123,7 +123,8 @@ dependencies {
 
 ## 使用方法の説明
 [基本ガイド](./basic/README.md)  
-[APIガイド](./APIReference/README.md)  
+[コアAPI](./core/README.md)  
+[APIデータ](./apiData/README.md)  
 [利用規約への同意について](./consent/README.md)  
 [移行ガイド](./migration/README.md)  
 [イベントアナリティクス](./EventAnalytics/README.md)  

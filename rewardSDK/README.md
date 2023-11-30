@@ -123,7 +123,8 @@ Follow the guide below on how to request user consent.
 
 ## Usage
 [Basic Guide](./doc/basic/README.md)  
-[API Reference](./doc/APIReference/README.md)  
+[Core API](./doc/core/README.md)  
+[API Data](./doc/apiData/README.md)  
 [User Consent](./doc/consent/README.md)  
 [Migration Guide](./doc/migration/README.md)  
 [Event Analytics](./doc/EventAnalytics/README.md)  
